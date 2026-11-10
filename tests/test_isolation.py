@@ -14,6 +14,8 @@ from rag import store
 from rag.config import QUESTIONS_FILE
 from rag.retrieve import search
 
+pytestmark = pytest.mark.db
+
 COMPANIES = ["ombrelune", "quillfern", "halvardt"]
 
 
