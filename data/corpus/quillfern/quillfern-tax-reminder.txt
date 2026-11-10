@@ -1,0 +1,14 @@
+---
+doc_id: quillfern-tax-reminder
+company: quillfern
+title: Filing reminder 2024
+type: tax_letter
+source: scan
+lang: en
+date: 2025-09-09
+---
+## References
+Fictional Tax Administration. Tax number LU-FICT-40807. Filing reminder.
+
+## Reminder
+The 2024 tax return was not filed on time. A late-filing penalty of EUR 291.42 is applied.

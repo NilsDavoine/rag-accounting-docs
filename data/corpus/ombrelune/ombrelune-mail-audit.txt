@@ -1,0 +1,21 @@
+---
+doc_id: ombrelune-mail-audit
+company: ombrelune
+title: Offre d'honoraires – audit 2025
+type: email
+source: email
+lang: fr
+date: 2025-09-22
+---
+From: Audit
+To: Ombrelune Logistique S.à r.l.
+Date: 22 septembre 2025
+Subject: Offre d'honoraires – audit 2025
+
+
+Madame, Monsieur,
+
+Pour le contrôle légal des comptes annuels 2025, nos honoraires s'élèveraient à 9 300,00 EUR hors TVA, débours compris.
+
+Nous restons à votre disposition,
+Réviseurs Associés Fictifs

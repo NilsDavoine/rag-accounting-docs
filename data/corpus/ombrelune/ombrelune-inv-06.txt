@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-06
+company: ombrelune
+title: Invoice BMS-2025-858 – Brightmoor Supply Inc.
+type: invoice
+source: scan
+lang: en
+date: 2025-06-08
+---
+## Header
+Supplier: Brightmoor Supply Inc. Customer: Ombrelune Logistique S.à r.l. Invoice no. BMS-2025-858, issued on 8 June 2025.
+
+## Line items
+A4 paper reams: 11 units at EUR 4.50 each, i.e. EUR 49.50 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 49.50. VAT at 17%: EUR 8.42. Total due: EUR 57.92. Payment by bank transfer no later than 8 July 2025.

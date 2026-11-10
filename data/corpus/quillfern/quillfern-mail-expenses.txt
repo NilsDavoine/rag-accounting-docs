@@ -1,0 +1,21 @@
+---
+doc_id: quillfern-mail-expenses
+company: quillfern
+title: Expense claims – receipts
+type: email
+source: email
+lang: en
+date: 2025-02-03
+---
+From: Direction
+To: Quillfern Software S.A.
+Date: 3 February 2025
+Subject: Expense claims – receipts
+
+
+Hi all,
+
+Friendly reminder: please attach receipts to your expense claims, otherwise accounting cannot process them.
+
+Thanks,
+Management

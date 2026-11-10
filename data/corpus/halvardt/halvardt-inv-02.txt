@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-02
+company: halvardt
+title: Rechnung BOK-2025-429 – Baustoffe Ottenmoor KG
+type: invoice
+source: pdf
+lang: de
+date: 2025-07-06
+---
+## Kopfdaten
+Lieferant: Baustoffe Ottenmoor KG. Kunde: Halvardt Bautechnik GmbH. Rechnung Nr. BOK-2025-429 vom 06.07.2025.
+
+## Positionen
+Zement (25-kg-Säcke): 36 Stück zu je 11,00 EUR, insgesamt 396,00 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 396,00 EUR. MwSt. 17 %: 67,32 EUR. Gesamtbetrag brutto: 463,32 EUR. Zahlung per Überweisung spätestens am 05.08.2025.

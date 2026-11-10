@@ -1,0 +1,21 @@
+---
+doc_id: quillfern-mail-meeting
+company: quillfern
+title: Year-end closing meeting
+type: email
+source: email
+lang: en
+date: 2025-10-11
+---
+From: Cabinet comptable fictif
+To: Quillfern Software S.A.
+Date: 11 October 2025
+Subject: Year-end closing meeting
+
+
+Dear all,
+
+I suggest we review the year-end closing on 20 October 2025 at 10 am in our offices. Please bring the draft general ledger.
+
+Best regards,
+Your accountant

@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-06
+company: halvardt
+title: Invoice WXT-2025-852 – Wexley Tools Ltd
+type: invoice
+source: scan
+lang: en
+date: 2025-05-17
+---
+## Header
+Supplier: Wexley Tools Ltd. Customer: Halvardt Bautechnik GmbH. Invoice no. WXT-2025-852, issued on 17 May 2025.
+
+## Line items
+Laptops: 21 units at EUR 1,271.50 each, i.e. EUR 26,701.50 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 26,701.50. VAT at 17%: EUR 4,539.26. Total due: EUR 31,240.76. Payment by bank transfer no later than 16 June 2025.

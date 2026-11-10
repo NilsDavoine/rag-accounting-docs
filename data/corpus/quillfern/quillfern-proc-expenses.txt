@@ -1,0 +1,20 @@
+---
+doc_id: quillfern-proc-expenses
+company: quillfern
+title: Expense claim procedure
+type: procedure
+source: pdf
+lang: en
+date: 2024-11-04
+---
+## Step 1 – Submission
+Employees submit their expense claim within 15 days of the expense, with receipts attached.
+
+## Step 2 – Approval
+The line manager approves the claim. Above EUR 750.00, the CFO's approval is required.
+
+## Step 3 – Reimbursement
+Accounting reimburses approved claims within 14 days.
+
+## Step 4 – Archiving
+Receipts are kept for 10 years.

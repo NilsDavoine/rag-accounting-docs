@@ -1,0 +1,20 @@
+---
+doc_id: halvardt-tax-vat
+company: halvardt
+title: Umsatzsteuerbescheid Q2 2025
+type: tax_letter
+source: scan
+lang: de
+date: 2025-07-18
+---
+## Bezug
+Fiktive Steuerverwaltung. Steuerpflichtiger: Halvardt Bautechnik GmbH, Steuernummer LU-FICT-45133. Betreff: Umsatzsteuerbescheid für das zweite Quartal 2025.
+
+## Festsetzung
+Nach Prüfung Ihrer Erklarung beträgt die Umsatzsteuer für das zweite Quartal 2025 9.660,99 EUR.
+
+## Zahlung
+Der Betrag ist spätestens am 15.08.2025 zu entrichten. Bei Verspätung fallen Verzugszinsen an.
+
+## Rechtsbehelf
+Gegen diesen Bescheid kann innerhalb von 3 Monate ab Bekanntgabe Einspruch eingelegt werden.

@@ -1,0 +1,21 @@
+---
+doc_id: halvardt-mail-meeting
+company: halvardt
+title: Termin Jahresabschluss
+type: email
+source: email
+lang: de
+date: 2025-09-28
+---
+From: Cabinet comptable fictif
+To: Halvardt Bautechnik GmbH
+Date: 28.09.2025
+Subject: Termin Jahresabschluss
+
+
+Guten Tag,
+
+ich schlage vor, den Jahresabschluss am 07.10.2025 um 10 Uhr in unserem Büro zu besprechen. Bitte bringen Sie das vorläufige Hauptbuch mit.
+
+Mit freundlichen Grüßen
+Ihr Steuerberater

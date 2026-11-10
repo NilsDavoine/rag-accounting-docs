@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-inv-05
+company: quillfern
+title: Invoice DCS-2025-133 – Dunmere Cloud Services
+type: invoice
+source: pdf
+lang: en
+date: 2025-02-05
+---
+## Header
+Supplier: Dunmere Cloud Services. Customer: Quillfern Software S.A. Invoice no. DCS-2025-133, issued on 5 February 2025.
+
+## Line items
+Server hosting: 8 months at EUR 727.00 each, i.e. EUR 5,816.00 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 5,816.00. VAT at 17%: EUR 988.72. Total due: EUR 6,804.72. Payment by bank transfer no later than 7 March 2025.

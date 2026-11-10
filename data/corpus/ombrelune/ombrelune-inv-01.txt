@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-01
+company: ombrelune
+title: Facture VCC-2025-711 – Cabinet Vauclerc Conseil
+type: invoice
+source: pdf
+lang: fr
+date: 2025-02-12
+---
+## En-tête
+Fournisseur : Cabinet Vauclerc Conseil. Client : Ombrelune Logistique S.à r.l. Facture n° VCC-2025-711, émise le 12 février 2025.
+
+## Détail
+Prestations de conseil : 3 h à 105,50 EUR l'unité, soit 316,50 EUR hors taxes.
+
+## Totaux et paiement
+Montant hors taxes : 316,50 EUR. TVA à 17 % : 53,81 EUR. Total TTC : 370,31 EUR. Paiement par virement au plus tard le 14 mars 2025.

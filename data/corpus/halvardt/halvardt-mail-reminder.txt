@@ -1,0 +1,21 @@
+---
+doc_id: halvardt-mail-reminder
+company: halvardt
+title: Zahlungserinnerung IKF-2025-846
+type: email
+source: email
+lang: de
+date: 2025-11-22
+---
+From: Ingenieurbüro Kranzfeld
+To: Halvardt Bautechnik GmbH
+Date: 22.11.2025
+Subject: Zahlungserinnerung IKF-2025-846
+
+
+Guten Tag,
+
+nach unseren Unterlagen ist die Rechnung IKF-2025-846 über 1.261,26 EUR, fällig am 10.11.2025, noch offen. Wir bitten um Begleichung.
+
+Mit freundlichen Grüßen
+Ingenieurbüro Kranzfeld

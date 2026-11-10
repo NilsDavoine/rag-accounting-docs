@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-04
+company: halvardt
+title: Rechnung GLM-2025-544 – Gerüstbau Lindmarsch
+type: invoice
+source: pdf
+lang: de
+date: 2025-08-17
+---
+## Kopfdaten
+Lieferant: Gerüstbau Lindmarsch. Kunde: Halvardt Bautechnik GmbH. Rechnung Nr. GLM-2025-544 vom 17.08.2025.
+
+## Positionen
+Gerüstmiete: 11 Wochen zu je 362,50 EUR, insgesamt 3.987,50 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 3.987,50 EUR. MwSt. 17 %: 677,88 EUR. Gesamtbetrag brutto: 4.665,38 EUR. Zahlung per Überweisung spätestens am 16.09.2025.

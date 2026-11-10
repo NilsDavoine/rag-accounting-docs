@@ -1,0 +1,21 @@
+---
+doc_id: quillfern-mail-conflict
+company: quillfern
+title: Notice period
+type: email
+source: email
+lang: en
+date: 2025-04-10
+---
+From: Ashcombe Advisory Ltd
+To: Quillfern Software S.A.
+Date: 10 April 2025
+Subject: Notice period
+
+
+Hi,
+
+Just a quick note on our agreement: as discussed, the notice period for terminating the service agreement is 2 months, not more. Everything else stays as signed.
+
+Best,
+Ashcombe Advisory Ltd

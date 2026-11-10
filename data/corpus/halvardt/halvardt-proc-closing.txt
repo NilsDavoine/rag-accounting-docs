@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-proc-closing
+company: halvardt
+title: Verfahren Monatsabschluss
+type: procedure
+source: pdf
+lang: de
+date: 2024-11-04
+---
+## Schritt 1 – Bankabstimmung
+Die Bankabstimmungen werden innerhalb von 4 Tage Arbeitstagen nach Monatsende abgeschlossen.
+
+## Schritt 2 – Abgrenzungen
+Rechnungsabgrenzungen werden vor dem Reporting gebucht.
+
+## Schritt 3 – Prüfung
+Die Leitung Buchhaltung prüft die Saldenliste und zeichnet den Abschluss ab.

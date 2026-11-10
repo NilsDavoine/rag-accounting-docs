@@ -1,0 +1,16 @@
+# CPU-only torch keeps the install small; a CUDA build works too.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+sentence-transformers==3.3.1
+transformers==4.46.3
+tokenizers==0.20.3
+huggingface-hub==0.26.5
+numpy==1.26.4
+scikit-learn==1.5.2
+psycopg[binary]==3.2.3
+pgvector==0.3.6
+fastapi==0.115.6
+uvicorn==0.32.1
+pytest==8.3.4
+# Optional: only used when ANTHROPIC_API_KEY is set.
+anthropic==0.40.0

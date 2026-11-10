@@ -1,0 +1,20 @@
+---
+doc_id: halvardt-contract-lease
+company: halvardt
+title: Gewerbemietvertrag – Residenz Belvedere
+type: contract
+source: pdf
+lang: de
+date: 2024-09-01
+---
+## Artikel 1 – Mietgegenstand
+Der Vermieter, Belvedere Fiktiv Immobilien, vermietet dem Mieter Büroräume im 1. Stock der Residenz Belvedere.
+
+## Artikel 2 – Miete
+Die monatliche Miete beträgt 2.875,00 EUR zuzüglich Nebenkosten und ist am ersten Tag jedes Monats im Voraus fällig.
+
+## Artikel 3 – Kaution
+Der Mieter leistet eine Kaution in Höhe von 3 Monate Miete.
+
+## Artikel 4 – Indexierung
+Die Miete wird einmal jährlich an den Verbraucherpreisindex angepasst.

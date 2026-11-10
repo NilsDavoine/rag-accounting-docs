@@ -1,0 +1,21 @@
+---
+doc_id: ombrelune-mail-reminder
+company: ombrelune
+title: Relance facture VCC-2025-711
+type: email
+source: email
+lang: fr
+date: 2025-03-26
+---
+From: Cabinet Vauclerc Conseil
+To: Ombrelune Logistique S.à r.l.
+Date: 26 mars 2025
+Subject: Relance facture VCC-2025-711
+
+
+Bonjour,
+
+Sauf erreur de notre part, la facture VCC-2025-711 d'un montant de 370,31 EUR arrivée à échéance le 14 mars 2025 reste impayée. Merci de procéder au règlement.
+
+Cordialement,
+Cabinet Vauclerc Conseil

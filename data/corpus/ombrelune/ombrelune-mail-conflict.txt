@@ -1,0 +1,21 @@
+---
+doc_id: ombrelune-mail-conflict
+company: ombrelune
+title: Taux horaire convenu
+type: email
+source: email
+lang: fr
+date: 2025-03-13
+---
+From: Cabinet Vauclerc Conseil
+To: Ombrelune Logistique S.à r.l.
+Date: 13 mars 2025
+Subject: Taux horaire convenu
+
+
+Bonjour,
+
+Comme convenu lors de notre réunion, nos prestations comptables vous seront facturées 26 EUR de l'heure à compter de ce mois-ci. Le reste du contrat est inchangé.
+
+Bien à vous,
+Cabinet Vauclerc Conseil

@@ -1,0 +1,14 @@
+---
+doc_id: halvardt-tax-reminder
+company: halvardt
+title: Erinnerung Steuererklärung 2024
+type: tax_letter
+source: scan
+lang: de
+date: 2025-09-09
+---
+## Bezug
+Fiktive Steuerverwaltung. Steuernummer LU-FICT-45133. Erinnerung zur Abgabe der Steuererklärung.
+
+## Erinnerung
+Die Steuererklärung 2024 wurde nicht fristgerecht abgegeben. Es wird ein Verspätungszuschlag von 280,16 EUR festgesetzt.

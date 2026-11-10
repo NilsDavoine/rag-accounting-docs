@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-tax-advance
+company: quillfern
+title: Notice of quarterly advances 2025
+type: tax_letter
+source: pdf
+lang: en
+date: 2025-05-06
+---
+## References
+Fictional Tax Administration. Taxpayer: Quillfern Software S.A., tax number LU-FICT-40807.
+
+## Quarterly advance
+The quarterly corporate income tax advance for 2025 is set at EUR 5,274.51 per quarter.
+
+## Due date
+The next advance is payable no later than 10 June 2025.

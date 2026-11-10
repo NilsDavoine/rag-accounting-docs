@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-inv-06
+company: quillfern
+title: Invoice OTH-2025-161 – Orrin & Tate Hardware
+type: invoice
+source: scan
+lang: en
+date: 2025-05-12
+---
+## Header
+Supplier: Orrin & Tate Hardware. Customer: Quillfern Software S.A. Invoice no. OTH-2025-161, issued on 12 May 2025.
+
+## Line items
+Laptops: 35 units at EUR 1,258.00 each, i.e. EUR 44,030.00 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 44,030.00. VAT at 17%: EUR 7,485.10. Total due: EUR 51,515.10. Payment by bank transfer no later than 11 June 2025.

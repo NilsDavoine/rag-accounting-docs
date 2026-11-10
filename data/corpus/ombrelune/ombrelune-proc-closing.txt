@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-proc-closing
+company: ombrelune
+title: Procédure de clôture mensuelle
+type: procedure
+source: pdf
+lang: fr
+date: 2024-11-04
+---
+## Étape 1 – Rapprochements bancaires
+Les rapprochements bancaires sont terminés dans les 3 jours ouvrés suivant la fin du mois.
+
+## Étape 2 – Charges à payer
+Les charges à payer et produits à recevoir sont comptabilisés avant le reporting.
+
+## Étape 3 – Revue
+Le responsable comptable revoit la balance et signe la clôture.

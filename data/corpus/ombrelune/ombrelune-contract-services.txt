@@ -1,0 +1,23 @@
+---
+doc_id: ombrelune-contract-services
+company: ombrelune
+title: Contrat de prestation de services – Cabinet Vauclerc Conseil
+type: contract
+source: pdf
+lang: fr
+date: 2025-01-12
+---
+## Article 1 – Objet
+Le prestataire Cabinet Vauclerc Conseil assiste Ombrelune Logistique S.à r.l. dans la tenue de sa comptabilité et la préparation des clôtures.
+
+## Article 2 – Durée
+Le contrat prend effet le 1 février 2025 pour une durée de 24 mois, renouvelable par écrit.
+
+## Article 3 – Honoraires
+Les prestations sont facturées au taux horaire de 25,50 EUR hors taxes, sur la base des heures réellement effectuées.
+
+## Article 4 – Modalités de paiement
+Les factures sont payables à 30 jours date de facture, par virement.
+
+## Article 5 – Résiliation
+Chaque partie peut résilier le contrat moyennant un préavis de 3 mois, notifié par lettre recommandée.

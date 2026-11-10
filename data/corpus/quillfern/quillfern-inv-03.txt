@@ -1,0 +1,18 @@
+---
+doc_id: quillfern-inv-03
+company: quillfern
+title: Facture CHB-2025-707 – Corriveau Hébergement
+type: invoice
+source: scan
+lang: fr
+date: 2025-02-23
+---
+## En-tête
+Fournisseur : Corriveau Hébergement. Client : Quil-
+lfern Software S.A. Facture n° CHB-2025-707, émise le 23 février 2025.
+
+## Détail
+Hébergement de serveurs : 2 mois à 698,50 EUR l'unité, soit 1 397,00 EUR hors taxes.
+
+## Totaux et paiement
+Montant hors taxes : 1 397,00 EUR. TVA à 17 % : 237,49 EUR. Total TTC : 1 634,49 EUR. Paiement par virement au plus tard le 25 mars 2025.

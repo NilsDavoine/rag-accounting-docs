@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-07
+company: halvardt
+title: Rechnung BBQ-2025-784 – Bürobedarf Quendt
+type: invoice
+source: pdf
+lang: de
+date: 2025-07-17
+---
+## Kopfdaten
+Lieferant: Bürobedarf Quendt. Kunde: Halvardt Bautechnik GmbH. Rechnung Nr. BBQ-2025-784 vom 17.07.2025.
+
+## Positionen
+Tintenpatronen: 2 Stück zu je 37,50 EUR, insgesamt 75,00 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 75,00 EUR. MwSt. 17 %: 12,75 EUR. Gesamtbetrag brutto: 87,75 EUR. Zahlung per Überweisung spätestens am 16.08.2025.

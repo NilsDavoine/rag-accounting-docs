@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-05
+company: halvardt
+title: Facture AMV-2025-271 – Atelier Morvignac
+type: invoice
+source: pdf
+lang: fr
+date: 2025-07-23
+---
+## En-tête
+Fournisseur : Atelier Morvignac. Client : Halvardt Bautechnik GmbH. Facture n° AMV-2025-271, émise le 23 juillet 2025.
+
+## Détail
+Prestations de conseil : 13 h à 133,50 EUR l'unité, soit 1 735,50 EUR hors taxes.
+
+## Totaux et paiement
+Montant hors taxes : 1 735,50 EUR. TVA à 17 % : 295,04 EUR. Total TTC : 2 030,54 EUR. Paiement par virement au plus tard le 22 août 2025.

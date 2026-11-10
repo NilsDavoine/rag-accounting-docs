@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-inv-04
+company: quillfern
+title: Invoice MCC-2025-340 – Marlstone Cleaning Co.
+type: invoice
+source: pdf
+lang: en
+date: 2025-04-23
+---
+## Header
+Supplier: Marlstone Cleaning Co. Customer: Quillfern Software S.A. Invoice no. MCC-2025-340, issued on 23 April 2025.
+
+## Line items
+Office cleaning: 11 h at EUR 32.00 each, i.e. EUR 352.00 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 352.00. VAT at 17%: EUR 59.84. Total due: EUR 411.84. Payment by bank transfer no later than 23 May 2025.

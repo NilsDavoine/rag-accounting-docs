@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-04
+company: ombrelune
+title: Facture NBM-2025-574 – Nettoyage Brillamonde
+type: invoice
+source: pdf
+lang: fr
+date: 2025-05-17
+---
+## En-tête
+Fournisseur : Nettoyage Brillamonde. Client : Ombrelune Logistique S.à r.l. Facture n° NBM-2025-574, émise le 17 mai 2025.
+
+## Détail
+Nettoyage des bureaux : 36 h à 28,50 EUR l'unité, soit 1 026,00 EUR hors taxes.
+
+## Totaux et paiement
+Montant hors taxes : 1 026,00 EUR. TVA à 17 % : 174,42 EUR. Total TTC : 1 200,42 EUR. Paiement par virement au plus tard le 16 juin 2025.

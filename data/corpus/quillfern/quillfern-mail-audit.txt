@@ -1,0 +1,21 @@
+---
+doc_id: quillfern-mail-audit
+company: quillfern
+title: Fee proposal – 2025 audit
+type: email
+source: email
+lang: en
+date: 2025-09-22
+---
+From: Audit
+To: Quillfern Software S.A.
+Date: 22 September 2025
+Subject: Fee proposal – 2025 audit
+
+
+Dear Sir or Madam,
+
+For the statutory audit of the 2025 annual accounts, our fee would be EUR 12,800.00 excluding VAT, expenses included.
+
+Kind regards,
+Fictive Audit Partners

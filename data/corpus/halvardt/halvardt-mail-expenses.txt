@@ -1,0 +1,21 @@
+---
+doc_id: halvardt-mail-expenses
+company: halvardt
+title: Reisekosten – Belege
+type: email
+source: email
+lang: de
+date: 2025-02-03
+---
+From: Direction
+To: Halvardt Bautechnik GmbH
+Date: 03.02.2025
+Subject: Reisekosten – Belege
+
+
+Hallo zusammen,
+
+kurze Erinnerung: bitte hängt eure Belege an die Reisekostenabrechnungen an, sonst kann die Buchhaltung sie nicht bearbeiten.
+
+Danke,
+Geschäftsleitung

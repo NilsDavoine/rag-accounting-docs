@@ -1,0 +1,21 @@
+---
+doc_id: ombrelune-mail-delivery
+company: ombrelune
+title: Shipping confirmation
+type: email
+source: email
+lang: en
+date: 2025-03-28
+---
+From: Brightmoor Supply Inc.
+To: Ombrelune Logistique S.à r.l.
+Date: 28 March 2025
+Subject: Shipping confirmation
+
+
+Hi,
+
+Your order of ink cartridges has shipped. Delivery is scheduled for 04/03/2025. Please make sure someone can receive the parcel.
+
+Thanks,
+Brightmoor Supply Inc.

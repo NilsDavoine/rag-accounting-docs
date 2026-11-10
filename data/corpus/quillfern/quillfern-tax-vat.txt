@@ -1,0 +1,21 @@
+---
+doc_id: quillfern-tax-vat
+company: quillfern
+title: VAT assessment Q2 2025
+type: tax_letter
+source: scan
+lang: en
+date: 2025-07-18
+---
+## References
+Fictional Tax Administration. Taxpayer: Quillfern Software S.A., tax number LU-FICT-40807. Subject: VAT assessment for the second quarter of 2025.
+
+## Assessment
+After review of your return, the VAT due for the second quarter of 2025 amounts to EUR 17,983.18.
+
+## Payment
+This amount must be paid no later than 15 August 2025. Late payment trig-
+gers default interest.
+
+## Appeal
+You have 3 months from notification to file an objection.

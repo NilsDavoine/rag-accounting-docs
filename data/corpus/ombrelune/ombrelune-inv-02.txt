@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-02
+company: ombrelune
+title: Facture PGR-2025-673 – Papeterie Grisolle
+type: invoice
+source: pdf
+lang: fr
+date: 2025-02-19
+---
+## En-tête
+Fournisseur : Papeterie Grisolle. Client : Ombrelune Logistique S.à r.l. Facture n° PGR-2025-673, émise le 19 février 2025.
+
+## Détail
+Cartouches d'encre : 29 unités à 28,00 EUR l'unité, soit 812,00 EUR hors taxes.
+
+## Totaux et paiement
+Montant hors taxes : 812,00 EUR. TVA à 17 % : 138,04 EUR. Total TTC : 950,04 EUR. Paiement par virement au plus tard le 21 mars 2025.

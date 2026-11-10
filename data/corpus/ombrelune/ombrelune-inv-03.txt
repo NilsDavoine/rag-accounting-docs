@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-03
+company: ombrelune
+title: Facture TAR-2025-820 – Trans-Ardoise SA
+type: invoice
+source: scan
+lang: fr
+date: 2025-05-16
+---
+## En-tête
+Fournisseur : Trans-Ardoise SA. Client : Ombrelune Logistique S.à r.l. Facture n° TAR-2025-820, émise le 16 mai 2025.
+
+## Détail
+Transport de palettes : 30 unités à 58,50 EUR l'unité, soit 1 755,00 EUR hors taxes.
+
+## Totaux et paiement
+Montant hors taxes : 1 755,00 EUR. TVA à 17 % : 298,35 EUR. Total TTC : 2 053,35 EUR. Paiement par virement au plus tard le 15 juin 2025.

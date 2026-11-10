@@ -1,0 +1,21 @@
+---
+doc_id: ombrelune-mail-meeting
+company: ombrelune
+title: Réunion de clôture annuelle
+type: email
+source: email
+lang: fr
+date: 2025-10-02
+---
+From: Cabinet comptable fictif
+To: Ombrelune Logistique S.à r.l.
+Date: 2 octobre 2025
+Subject: Réunion de clôture annuelle
+
+
+Bonjour,
+
+Je vous propose de faire le point sur la clôture annuelle le 11 octobre 2025 à 10 h dans nos bureaux. Merci d'apporter le grand livre provisoire.
+
+Bien cordialement,
+Votre expert-comptable

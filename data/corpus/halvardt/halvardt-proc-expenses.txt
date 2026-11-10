@@ -1,0 +1,20 @@
+---
+doc_id: halvardt-proc-expenses
+company: halvardt
+title: Verfahren Reisekostenabrechnung
+type: procedure
+source: pdf
+lang: de
+date: 2024-11-04
+---
+## Schritt 1 – Erfassung
+Mitarbeitende erfassen ihre Reisekostenabrechnung innerhalb von 20 Tage nach der Ausgabe, mit Belegen.
+
+## Schritt 2 – Freigabe
+Die Führungskraft gibt die Abrechnung frei. Über 600,00 EUR ist die Zustimmung des Finanzleiters erforderlich.
+
+## Schritt 3 – Erstattung
+Die Buchhaltung erstattet freigegebene Abrechnungen innerhalb von 7 Tage.
+
+## Schritt 4 – Archivierung
+Belege werden 10 Jahre aufbewahrt.

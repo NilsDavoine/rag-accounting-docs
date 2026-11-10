@@ -1,0 +1,20 @@
+---
+doc_id: ombrelune-tax-vat
+company: ombrelune
+title: Décompte de TVA T2 2025
+type: tax_letter
+source: scan
+lang: fr
+date: 2025-07-18
+---
+## Références
+Administration fiscale fictive. Contribuable : Ombrelune Logistique S.a r.l., matricule LU-FICT-26891. Objet : décompte de TVA du deuxième trimestre 2025.
+
+## Décompte
+Après contrôle de votre déclaration, la TVA due pour le deuxième trimestre 2025 s'élève à 10 154,82 EUR.
+
+## Paiement
+Ce montant doit être versé au plus tard le 15 août 2025. Tout retard entraîne des intérêts de retard.
+
+## Recours
+Vous disposez d'un délai de 3 mois à compter de la notification pour introduire une réclamation.

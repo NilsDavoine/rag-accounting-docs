@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-07
+company: ombrelune
+title: Rechnung FDR-2025-558 – Fenwald Druckerei GmbH
+type: invoice
+source: pdf
+lang: de
+date: 2025-01-12
+---
+## Kopfdaten
+Lieferant: Fenwald Druckerei GmbH. Kunde: Ombrelune Logistique S.à r.l. Rechnung Nr. FDR-2025-558 vom 12.01.2025.
+
+## Positionen
+Broschürendruck: 26 Stück zu je 3,00 EUR, insgesamt 78,00 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 78,00 EUR. MwSt. 17 %: 13,26 EUR. Gesamtbetrag brutto: 91,26 EUR. Zahlung per Überweisung spätestens am 11.02.2025.

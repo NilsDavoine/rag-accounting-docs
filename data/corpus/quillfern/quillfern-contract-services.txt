@@ -1,0 +1,23 @@
+---
+doc_id: quillfern-contract-services
+company: quillfern
+title: Service agreement – Ashcombe Advisory Ltd
+type: contract
+source: pdf
+lang: en
+date: 2025-02-09
+---
+## Article 1 – Purpose
+The provider Ashcombe Advisory Ltd supports Quillfern Software S.A. with bookkeeping and the preparation of closings.
+
+## Article 2 – Term
+The agreement takes effect on 1 March 2025 for a term of 12 months, renewable in writing.
+
+## Article 3 – Fees
+Services are invoiced at an hourly rate of EUR 31.00 excluding VAT, based on hours actually worked.
+
+## Article 4 – Payment terms
+Invoices are payable within 45 days of the invoice date, by bank transfer.
+
+## Article 5 – Termination
+Either party may terminate the agreement with 3 months' notice, given by registered letter.

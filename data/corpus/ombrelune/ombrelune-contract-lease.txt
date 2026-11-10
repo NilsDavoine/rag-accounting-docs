@@ -1,0 +1,20 @@
+---
+doc_id: ombrelune-contract-lease
+company: ombrelune
+title: Bail commercial – Résidence Belvédère
+type: contract
+source: pdf
+lang: fr
+date: 2024-12-01
+---
+## Article 1 – Locaux
+Le bailleur, la SCI Belvédère Fictive, loue au preneur des bureaux situés au 2e étage de la Résidence Belvédère.
+
+## Article 2 – Loyer
+Le loyer mensuel est fixé à 2 450,00 EUR hors charges, payable d'avance le premier jour de chaque mois.
+
+## Article 3 – Garantie
+Le preneur verse une garantie locative égale à 3 mois de loyer.
+
+## Article 4 – Indexation
+Le loyer est indexé une fois par an sur l'indice des prix à la consommation.

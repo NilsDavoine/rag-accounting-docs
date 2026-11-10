@@ -1,0 +1,20 @@
+---
+doc_id: quillfern-contract-lease
+company: quillfern
+title: Office lease – Belvedere Residence
+type: contract
+source: pdf
+lang: en
+date: 2024-01-01
+---
+## Article 1 – Premises
+The landlord, Belvedere Fictive Properties, lets to the tenant offices on floor 4 of the Belvedere Residence.
+
+## Article 2 – Rent
+The monthly rent is EUR 3,180.00 excluding service charges, payable in advance on the first day of each month.
+
+## Article 3 – Deposit
+The tenant pays a security deposit equal to 2 months of rent.
+
+## Article 4 – Indexation
+The rent is indexed once a year on the consumer price index.

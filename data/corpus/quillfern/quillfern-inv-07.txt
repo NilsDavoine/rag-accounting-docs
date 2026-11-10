@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-inv-07
+company: quillfern
+title: Rechnung SIT-2025-391 – Selbrecht IT-Service
+type: invoice
+source: pdf
+lang: de
+date: 2025-05-01
+---
+## Kopfdaten
+Lieferant: Selbrecht IT-Service. Kunde: Quillfern Software S.A. Rechnung Nr. SIT-2025-391 vom 01.05.2025.
+
+## Positionen
+Jährliche Softwarelizenz: 33 Stück zu je 1.957,00 EUR, insgesamt 64.581,00 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 64.581,00 EUR. MwSt. 17 %: 10.978,77 EUR. Gesamtbetrag brutto: 75.559,77 EUR. Zahlung per Überweisung spätestens am 31.05.2025.

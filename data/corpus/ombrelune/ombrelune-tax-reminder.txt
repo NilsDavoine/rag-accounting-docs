@@ -1,0 +1,14 @@
+---
+doc_id: ombrelune-tax-reminder
+company: ombrelune
+title: Rappel de déclaration 2024
+type: tax_letter
+source: scan
+lang: fr
+date: 2025-09-09
+---
+## Références
+Administration fiscale fictive. Matricule LU-FICT-26891. Rappel de dépôt de déclaration.
+
+## Rappel
+La déclaration d'impôt 2024 n'a pas été déposée dans les délais. Une astreinte de 386,97 EUR est appliquée.

@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-inv-02
+company: quillfern
+title: Invoice POG-2025-636 – Pellow Office Goods
+type: invoice
+source: pdf
+lang: en
+date: 2025-02-23
+---
+## Header
+Supplier: Pellow Office Goods. Customer: Quillfern Software S.A. Invoice no. POG-2025-636, issued on 23 February 2025.
+
+## Line items
+Ink cartridges: 32 units at EUR 57.00 each, i.e. EUR 1,824.00 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 1,824.00. VAT at 17%: EUR 310.08. Total due: EUR 2,134.08. Payment by bank transfer no later than 25 March 2025.

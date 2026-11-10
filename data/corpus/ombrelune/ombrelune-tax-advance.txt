@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-tax-advance
+company: ombrelune
+title: Avis d'avances trimestrielles 2025
+type: tax_letter
+source: pdf
+lang: fr
+date: 2025-05-06
+---
+## Références
+Administration fiscale fictive. Contribuable : Ombrelune Logistique S.à r.l., matricule LU-FICT-26891.
+
+## Avance trimestrielle
+L'avance trimestrielle d'impôt sur le revenu des collectivités pour 2025 est fixée à 6 599,51 EUR par trimestre.
+
+## Échéance
+La prochaine avance est payable au plus tard le 10 juin 2025.

@@ -1,0 +1,26 @@
+---
+doc_id: halvardt-contract-services
+company: halvardt
+title: Dienstleistungsvertrag – Ingenieurbüro Kranzfeld
+type: contract
+source: pdf
+lang: de
+date: 2025-01-12
+---
+## Artikel 1 – Gegenstand
+Der Auftragnehmer Ingenieurbüro Kranzfeld unterstützt die Halvardt Bautechnik GmbH bei der Buchhaltung und der Vorbereitung der Abschlüsse.
+
+## Artikel 2 – Laufzeit
+Der Vertrag beginnt am 01.02.2025 und läuft 24 Monate; eine Verlängerung bedarf der Schriftform.
+
+## Artikel 3 – Vergütung
+Die Leistungen werden zu einem Stundensatz von 28,00 EUR netto nach tatsächlich geleisteten Stunden abgerechnet.
+
+## Artikel 4 – Zahlungsbedingungen
+Rechnungen sind innerhalb von 60 Tage ab Rechnungsdatum per Überweisung zahlbar.
+
+## Artikel 5 – Kündigung
+Jede Partei kann den Vertrag mit einer Frist von 3 Monate per Einschreiben kündigen.
+
+## Artikel 6 – Vertragsstrafe
+Bei verspäteter Lieferung der Abschlussunterlagen wird eine Vertragsstrafe von 0,5 % des Monatshonorars pro angefangene Woche fällig.

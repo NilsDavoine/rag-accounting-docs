@@ -1,0 +1,17 @@
+---
+doc_id: ombrelune-inv-05
+company: ombrelune
+title: Invoice KSW-2025-260 – Kelderwick Software Ltd
+type: invoice
+source: pdf
+lang: en
+date: 2025-04-03
+---
+## Header
+Supplier: Kelderwick Software Ltd. Customer: Ombrelune Logistique S.à r.l. Invoice no. KSW-2025-260, issued on 3 April 2025.
+
+## Line items
+Annual software licence: 14 units at EUR 1,836.50 each, i.e. EUR 25,711.00 excluding VAT.
+
+## Totals and payment
+Net amount: EUR 25,711.00. VAT at 17%: EUR 4,370.87. Total due: EUR 30,081.87. Payment by bank transfer no later than 3 May 2025.

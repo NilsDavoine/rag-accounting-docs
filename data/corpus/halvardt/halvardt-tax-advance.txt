@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-tax-advance
+company: halvardt
+title: Bescheid über Vorauszahlungen 2025
+type: tax_letter
+source: pdf
+lang: de
+date: 2025-05-06
+---
+## Bezug
+Fiktive Steuerverwaltung. Steuerpflichtiger: Halvardt Bautechnik GmbH, Steuernummer LU-FICT-45133.
+
+## Vierteljährliche Vorauszahlung
+Die vierteljährliche Körperschaftsteuer-Vorauszahlung für 2025 beträgt 1.525,36 EUR pro Quartal.
+
+## Fälligkeit
+Die nächste Vorauszahlung ist spätestens am 10.06.2025 fällig.

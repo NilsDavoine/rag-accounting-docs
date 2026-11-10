@@ -1,0 +1,21 @@
+---
+doc_id: ombrelune-mail-expenses
+company: ombrelune
+title: Notes de frais – justificatifs
+type: email
+source: email
+lang: fr
+date: 2025-02-03
+---
+From: Direction
+To: Ombrelune Logistique S.à r.l.
+Date: 3 février 2025
+Subject: Notes de frais – justificatifs
+
+
+Bonjour à tous,
+
+Petit rappel : pensez à joindre vos justificatifs aux notes de frais, sinon la comptabilité ne peut pas les traiter.
+
+Merci,
+La direction

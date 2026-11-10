@@ -1,0 +1,21 @@
+---
+doc_id: quillfern-mail-reminder
+company: quillfern
+title: Reminder: invoice AAL-2025-468
+type: email
+source: email
+lang: en
+date: 2025-10-26
+---
+From: Ashcombe Advisory Ltd
+To: Quillfern Software S.A.
+Date: 26 October 2025
+Subject: Reminder: invoice AAL-2025-468
+
+
+Hello,
+
+Unless we are mistaken, invoice AAL-2025-468 for EUR 4,256.46, due on 14 October 2025, is still unpaid. Could you please arrange payment?
+
+Kind regards,
+Ashcombe Advisory Ltd

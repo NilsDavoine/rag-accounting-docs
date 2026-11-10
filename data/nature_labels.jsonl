@@ -1,0 +1,157 @@
+{"doc_id": "ombrelune-inv-01", "heading": "En-tête", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-01", "heading": "Détail", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-01", "heading": "Totaux et paiement", "nature": "invoice_line"}
+{"doc_id": "ombrelune-mail-reminder", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "ombrelune-inv-02", "heading": "En-tête", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-02", "heading": "Détail", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-02", "heading": "Totaux et paiement", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-03", "heading": "En-tête", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-03", "heading": "Détail", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-03", "heading": "Totaux et paiement", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-04", "heading": "En-tête", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-04", "heading": "Détail", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-04", "heading": "Totaux et paiement", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-05", "heading": "Header", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-05", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-05", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-06", "heading": "Header", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-06", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-06", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-07", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "ombrelune-inv-07", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "ombrelune-inv-07", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "ombrelune-contract-services", "heading": "Article 1 – Objet", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-services", "heading": "Article 2 – Durée", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-services", "heading": "Article 3 – Honoraires", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-services", "heading": "Article 4 – Modalités de paiement", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-services", "heading": "Article 5 – Résiliation", "nature": "contract_clause"}
+{"doc_id": "ombrelune-mail-conflict", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "ombrelune-contract-lease", "heading": "Article 1 – Locaux", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-lease", "heading": "Article 2 – Loyer", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-lease", "heading": "Article 3 – Garantie", "nature": "contract_clause"}
+{"doc_id": "ombrelune-contract-lease", "heading": "Article 4 – Indexation", "nature": "contract_clause"}
+{"doc_id": "ombrelune-tax-vat", "heading": "Références", "nature": "party_details"}
+{"doc_id": "ombrelune-tax-vat", "heading": "Décompte", "nature": "tax_notice"}
+{"doc_id": "ombrelune-tax-vat", "heading": "Paiement", "nature": "tax_notice"}
+{"doc_id": "ombrelune-tax-vat", "heading": "Recours", "nature": "tax_notice"}
+{"doc_id": "ombrelune-tax-advance", "heading": "Références", "nature": "party_details"}
+{"doc_id": "ombrelune-tax-advance", "heading": "Avance trimestrielle", "nature": "tax_notice"}
+{"doc_id": "ombrelune-tax-advance", "heading": "Échéance", "nature": "tax_notice"}
+{"doc_id": "ombrelune-tax-reminder", "heading": "Références", "nature": "party_details"}
+{"doc_id": "ombrelune-tax-reminder", "heading": "Rappel", "nature": "tax_notice"}
+{"doc_id": "ombrelune-proc-expenses", "heading": "Étape 1 – Saisie", "nature": "procedure_step"}
+{"doc_id": "ombrelune-proc-expenses", "heading": "Étape 2 – Validation", "nature": "procedure_step"}
+{"doc_id": "ombrelune-proc-expenses", "heading": "Étape 3 – Remboursement", "nature": "procedure_step"}
+{"doc_id": "ombrelune-proc-expenses", "heading": "Étape 4 – Archivage", "nature": "procedure_step"}
+{"doc_id": "ombrelune-proc-closing", "heading": "Étape 1 – Rapprochements bancaires", "nature": "procedure_step"}
+{"doc_id": "ombrelune-proc-closing", "heading": "Étape 2 – Charges à payer", "nature": "procedure_step"}
+{"doc_id": "ombrelune-proc-closing", "heading": "Étape 3 – Revue", "nature": "procedure_step"}
+{"doc_id": "ombrelune-mail-delivery", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "ombrelune-mail-meeting", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "ombrelune-mail-expenses", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "ombrelune-mail-audit", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "quillfern-inv-01", "heading": "Header", "nature": "party_details"}
+{"doc_id": "quillfern-inv-01", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-01", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "quillfern-mail-reminder", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "quillfern-inv-02", "heading": "Header", "nature": "party_details"}
+{"doc_id": "quillfern-inv-02", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-02", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-03", "heading": "En-tête", "nature": "party_details"}
+{"doc_id": "quillfern-inv-03", "heading": "Détail", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-03", "heading": "Totaux et paiement", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-04", "heading": "Header", "nature": "party_details"}
+{"doc_id": "quillfern-inv-04", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-04", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-05", "heading": "Header", "nature": "party_details"}
+{"doc_id": "quillfern-inv-05", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-05", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-06", "heading": "Header", "nature": "party_details"}
+{"doc_id": "quillfern-inv-06", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-06", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-07", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "quillfern-inv-07", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "quillfern-inv-07", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "quillfern-contract-services", "heading": "Article 1 – Purpose", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-services", "heading": "Article 2 – Term", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-services", "heading": "Article 3 – Fees", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-services", "heading": "Article 4 – Payment terms", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-services", "heading": "Article 5 – Termination", "nature": "contract_clause"}
+{"doc_id": "quillfern-mail-conflict", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "quillfern-contract-lease", "heading": "Article 1 – Premises", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-lease", "heading": "Article 2 – Rent", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-lease", "heading": "Article 3 – Deposit", "nature": "contract_clause"}
+{"doc_id": "quillfern-contract-lease", "heading": "Article 4 – Indexation", "nature": "contract_clause"}
+{"doc_id": "quillfern-tax-vat", "heading": "References", "nature": "party_details"}
+{"doc_id": "quillfern-tax-vat", "heading": "Assessment", "nature": "tax_notice"}
+{"doc_id": "quillfern-tax-vat", "heading": "Payment", "nature": "tax_notice"}
+{"doc_id": "quillfern-tax-vat", "heading": "Appeal", "nature": "tax_notice"}
+{"doc_id": "quillfern-tax-advance", "heading": "References", "nature": "party_details"}
+{"doc_id": "quillfern-tax-advance", "heading": "Quarterly advance", "nature": "tax_notice"}
+{"doc_id": "quillfern-tax-advance", "heading": "Due date", "nature": "tax_notice"}
+{"doc_id": "quillfern-tax-reminder", "heading": "References", "nature": "party_details"}
+{"doc_id": "quillfern-tax-reminder", "heading": "Reminder", "nature": "tax_notice"}
+{"doc_id": "quillfern-proc-expenses", "heading": "Step 1 – Submission", "nature": "procedure_step"}
+{"doc_id": "quillfern-proc-expenses", "heading": "Step 2 – Approval", "nature": "procedure_step"}
+{"doc_id": "quillfern-proc-expenses", "heading": "Step 3 – Reimbursement", "nature": "procedure_step"}
+{"doc_id": "quillfern-proc-expenses", "heading": "Step 4 – Archiving", "nature": "procedure_step"}
+{"doc_id": "quillfern-proc-closing", "heading": "Step 1 – Bank reconciliations", "nature": "procedure_step"}
+{"doc_id": "quillfern-proc-closing", "heading": "Step 2 – Accruals", "nature": "procedure_step"}
+{"doc_id": "quillfern-proc-closing", "heading": "Step 3 – Review", "nature": "procedure_step"}
+{"doc_id": "quillfern-mail-delivery", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "quillfern-mail-meeting", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "quillfern-mail-expenses", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "quillfern-mail-audit", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "halvardt-inv-01", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "halvardt-inv-01", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-01", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "halvardt-mail-reminder", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "halvardt-inv-02", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "halvardt-inv-02", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-02", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-03", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "halvardt-inv-03", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-03", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-04", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "halvardt-inv-04", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-04", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-05", "heading": "En-tête", "nature": "party_details"}
+{"doc_id": "halvardt-inv-05", "heading": "Détail", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-05", "heading": "Totaux et paiement", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-06", "heading": "Header", "nature": "party_details"}
+{"doc_id": "halvardt-inv-06", "heading": "Line items", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-06", "heading": "Totals and payment", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-07", "heading": "Kopfdaten", "nature": "party_details"}
+{"doc_id": "halvardt-inv-07", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "halvardt-inv-07", "heading": "Summen und Zahlung", "nature": "invoice_line"}
+{"doc_id": "halvardt-contract-services", "heading": "Artikel 1 – Gegenstand", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-services", "heading": "Artikel 2 – Laufzeit", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-services", "heading": "Artikel 3 – Vergütung", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-services", "heading": "Artikel 4 – Zahlungsbedingungen", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-services", "heading": "Artikel 5 – Kündigung", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-services", "heading": "Artikel 6 – Vertragsstrafe", "nature": "contract_clause"}
+{"doc_id": "halvardt-mail-conflict", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "halvardt-contract-lease", "heading": "Artikel 1 – Mietgegenstand", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-lease", "heading": "Artikel 2 – Miete", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-lease", "heading": "Artikel 3 – Kaution", "nature": "contract_clause"}
+{"doc_id": "halvardt-contract-lease", "heading": "Artikel 4 – Indexierung", "nature": "contract_clause"}
+{"doc_id": "halvardt-tax-vat", "heading": "Bezug", "nature": "party_details"}
+{"doc_id": "halvardt-tax-vat", "heading": "Festsetzung", "nature": "tax_notice"}
+{"doc_id": "halvardt-tax-vat", "heading": "Zahlung", "nature": "tax_notice"}
+{"doc_id": "halvardt-tax-vat", "heading": "Rechtsbehelf", "nature": "tax_notice"}
+{"doc_id": "halvardt-tax-advance", "heading": "Bezug", "nature": "party_details"}
+{"doc_id": "halvardt-tax-advance", "heading": "Vierteljährliche Vorauszahlung", "nature": "tax_notice"}
+{"doc_id": "halvardt-tax-advance", "heading": "Fälligkeit", "nature": "tax_notice"}
+{"doc_id": "halvardt-tax-reminder", "heading": "Bezug", "nature": "party_details"}
+{"doc_id": "halvardt-tax-reminder", "heading": "Erinnerung", "nature": "tax_notice"}
+{"doc_id": "halvardt-proc-expenses", "heading": "Schritt 1 – Erfassung", "nature": "procedure_step"}
+{"doc_id": "halvardt-proc-expenses", "heading": "Schritt 2 – Freigabe", "nature": "procedure_step"}
+{"doc_id": "halvardt-proc-expenses", "heading": "Schritt 3 – Erstattung", "nature": "procedure_step"}
+{"doc_id": "halvardt-proc-expenses", "heading": "Schritt 4 – Archivierung", "nature": "procedure_step"}
+{"doc_id": "halvardt-proc-closing", "heading": "Schritt 1 – Bankabstimmung", "nature": "procedure_step"}
+{"doc_id": "halvardt-proc-closing", "heading": "Schritt 2 – Abgrenzungen", "nature": "procedure_step"}
+{"doc_id": "halvardt-proc-closing", "heading": "Schritt 3 – Prüfung", "nature": "procedure_step"}
+{"doc_id": "halvardt-mail-delivery", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "halvardt-mail-meeting", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "halvardt-mail-expenses", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "halvardt-mail-audit", "heading": "Message", "nature": "correspondence"}

@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-03
+company: halvardt
+title: Rechnung SWT-2025-706 – Schwarzach Transporte
+type: invoice
+source: scan
+lang: de
+date: 2025-09-23
+---
+## Kopfdaten
+Lieferant: Schwarzach Transporte. Kunde: Halvardt Bautechnik GmbH. Rechnung Nr. SWT-2025-706 vom 23.09.2025.
+
+## Positionen
+Palettentransport: 20 Stück zu je 75,50 EUR, insgesamt 1.510,00 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 1.510,00 EUR. MwSt. 17 %: 256,70 EUR. Gesamtbetrag brutto: 1.766,70 EUR. Zahlung per Überweisung spätestens am 23.10.2025.

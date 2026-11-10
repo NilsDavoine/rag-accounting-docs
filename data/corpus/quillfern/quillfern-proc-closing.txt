@@ -1,0 +1,17 @@
+---
+doc_id: quillfern-proc-closing
+company: quillfern
+title: Month-end closing procedure
+type: procedure
+source: pdf
+lang: en
+date: 2024-11-04
+---
+## Step 1 – Bank reconciliations
+Bank reconciliations are completed within 2 days working days after month end.
+
+## Step 2 – Accruals
+Accruals and deferred income are booked before reporting.
+
+## Step 3 – Review
+The head of accounting reviews the trial balance and signs off the close.

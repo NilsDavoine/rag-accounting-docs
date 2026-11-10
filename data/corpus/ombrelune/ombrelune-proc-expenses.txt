@@ -1,0 +1,20 @@
+---
+doc_id: ombrelune-proc-expenses
+company: ombrelune
+title: Procédure des notes de frais
+type: procedure
+source: pdf
+lang: fr
+date: 2024-11-04
+---
+## Étape 1 – Saisie
+Le salarié saisit sa note de frais dans un délai de 30 jours après la dépense, justificatifs joints.
+
+## Étape 2 – Validation
+Le responsable valide la note. Au-delà de 500,00 EUR, l'accord du directeur financier est requis.
+
+## Étape 3 – Remboursement
+La comptabilité rembourse la note validée sous 10 jours.
+
+## Étape 4 – Archivage
+Les justificatifs sont conservés pendant 10 ans.

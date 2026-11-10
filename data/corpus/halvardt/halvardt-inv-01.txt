@@ -1,0 +1,17 @@
+---
+doc_id: halvardt-inv-01
+company: halvardt
+title: Rechnung IKF-2025-846 – Ingenieurbüro Kranzfeld
+type: invoice
+source: pdf
+lang: de
+date: 2025-10-11
+---
+## Kopfdaten
+Lieferant: Ingenieurbüro Kranzfeld. Kunde: Halvardt Bautechnik GmbH. Rechnung Nr. IKF-2025-846 vom 11.10.2025.
+
+## Positionen
+Beratungsleistungen: 11 Std. zu je 98,00 EUR, insgesamt 1.078,00 EUR netto.
+
+## Summen und Zahlung
+Nettobetrag: 1.078,00 EUR. MwSt. 17 %: 183,26 EUR. Gesamtbetrag brutto: 1.261,26 EUR. Zahlung per Überweisung spätestens am 10.11.2025.
