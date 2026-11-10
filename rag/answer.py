@@ -34,6 +34,7 @@ class Answer:
     conflict: list[dict] = field(default_factory=list)   # [{value, doc_id, heading}] when sources disagree
     flags: list[str] = field(default_factory=list)
     citations: list[dict] = field(default_factory=list)
+    passages: list[dict] = field(default_factory=list, repr=False)   # what a generator was (or would be) given
 
 
 def _refuse(reason: str) -> Answer:
@@ -72,7 +73,8 @@ def answer(question: str, hits: list[dict], tau: float, margin: float, generator
     best_h, best_cl, best_vals = rows[order[0]]
     primary = best_vals[0] if best_vals else None
 
-    ans = Answer(text="", primary=primary["value"] if primary else None, citations=[_cite(best_h)])
+    ans = Answer(text="", primary=primary["value"] if primary else None, citations=[_cite(best_h)],
+                 passages=supported[:CLAUSE_PASSAGES])
 
     # Number consistency across sources
     if primary:
@@ -95,8 +97,10 @@ def answer(question: str, hits: list[dict], tau: float, margin: float, generator
     if generator == "extractive":
         ans.text = f"« {best_cl} » — {best_h['title']}, {best_h['heading']}"
     else:
-        from rag.llm import grounded_answer
+        from rag.llm import NO_ANSWER, grounded_answer
         ans.text, ungrounded = grounded_answer(question, supported[:CLAUSE_PASSAGES], generator, types)
+        if ans.text.strip().upper().startswith(NO_ANSWER):   # the model found no answer in the passages
+            return _refuse("the model found no answer in the passages")
         if ungrounded:   # the model wrote a number that is in no passage: fall back to the quote
             ans.flags.append("llm_number_not_in_sources")
             ans.text = f"« {best_cl} » — {best_h['title']}, {best_h['heading']}"

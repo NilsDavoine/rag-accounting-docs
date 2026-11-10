@@ -1,0 +1,26 @@
+{
+  "extractive|none (quotes the best clause)|main (test split)": {
+    "questions": 98,
+    "accuracy": 0.8877551020408163,
+    "refusal_precision": 0.8,
+    "refusal_recall": 1.0,
+    "fallbacks": 0,
+    "p50_ms": 38.49886849639006,
+    "requests": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "date": "2026-11-10"
+  },
+  "extractive|none (quotes the best clause)|hard (held out)": {
+    "questions": 80,
+    "accuracy": 0.5875,
+    "refusal_precision": 0.4,
+    "refusal_recall": 0.5,
+    "fallbacks": 0,
+    "p50_ms": 41.39820649288595,
+    "requests": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "date": "2026-11-10"
+  }
+}
