@@ -211,3 +211,7 @@ Deliberate traps:
   margin). A contradiction buried in a low-ranked passage is not seen.
 - **The company selector in the web page stands in for authentication.** In a real
   deployment the tenant comes from the signed-in user's session.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Third-party models keep their own licenses.

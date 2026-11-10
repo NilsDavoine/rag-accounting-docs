@@ -37,7 +37,10 @@ def _anthropic(prompt: str) -> str:
     if not os.environ.get("ANTHROPIC_API_KEY"):
         raise RuntimeError("ANTHROPIC_API_KEY is not set; use --generator extractive or ollama")
     import anthropic
-    msg = anthropic.Anthropic().messages.create(model=ANTHROPIC_MODEL, max_tokens=300, temperature=0,
+    # Current Claude models reject sampling parameters (temperature); "low" effort keeps a short
+    # grounded answer fast and cheap, and max_tokens leaves room for the model's own thinking.
+    msg = anthropic.Anthropic().messages.create(model=ANTHROPIC_MODEL, max_tokens=4000,
+                                                output_config={"effort": "low"},
                                                 system=SYSTEM, messages=[{"role": "user", "content": prompt}])
     return "".join(b.text for b in msg.content if b.type == "text").strip()
 
