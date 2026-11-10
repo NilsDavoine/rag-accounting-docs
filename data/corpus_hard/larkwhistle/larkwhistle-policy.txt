@@ -1,0 +1,32 @@
+---
+doc_id: larkwhistle-policy
+company: larkwhistle
+title: Travel and purchasing policy
+type: procedure
+source: pdf
+lang: en
+date: 2025-01-06
+---
+## 1. Scope
+This policy applies to every employee of Larkwhistle Analytics Ltd who incurs costs on behalf of the company. Headings are for convenience only and do not limit the scope of this clause. Each party appoints a contact person in charge of this clause and informs the other party in writing.
+
+## 2.1 Meals – Luxembourg
+A business meal taken in Luxembourg is reimbursed up to EUR 20.00 per person, drinks included.
+
+## 2.2 Meals – abroad
+A business meal taken abroad is reimbursed up to EUR 50.00 per person, drinks included.
+
+## 3.1 Accommodation – Luxembourg
+A hotel night in Luxembourg is covered up to EUR 140.00, breakfast included.
+
+## 3.2 Accommodation – abroad
+A hotel night abroad is covered up to EUR 180.00, breakfast included.
+
+## 4. Private vehicle
+Using a private vehicle for a business trip gives rise to an allowance of EUR 0.30 per kilometre. This clause applies without prejudice to any mandatory statutory provisions.
+
+## 5.1 Purchasing – single quote
+Any purchase above EUR 500.00 excluding VAT requires a written quote. The provider keeps available to the client any document needed to check the amounts invoiced.
+
+## 5.2 Purchasing – competitive quotes
+Any purchase above EUR 10,000.00 excluding VAT requires three comparable quotes. Any change to this clause requires a written amendment signed by both parties.

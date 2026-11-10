@@ -1,0 +1,21 @@
+---
+doc_id: larkwhistle-mail-plan
+company: larkwhistle
+title: Payment plan
+type: email
+source: email
+lang: en
+date: 2025-10-14
+---
+From: Penhallow Consulting
+To: Larkwhistle Analytics Ltd
+Date: 14 October 2025
+Subject: Payment plan
+
+
+Hello,
+
+Further to our call, we are happy for the outstanding EUR 7,511.04 to be paid in three monthly instalments of EUR 2,503.68, the first on 3 November 2025.
+
+Best wishes,
+Penhallow Consulting

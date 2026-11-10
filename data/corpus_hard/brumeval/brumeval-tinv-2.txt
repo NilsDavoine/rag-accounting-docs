@@ -1,0 +1,25 @@
+---
+doc_id: brumeval-tinv-2
+company: brumeval
+title: Invoice TWP-2025-257 – Tyrewell Parts Ltd
+type: invoice
+source: scan
+lang: en
+date: 2025-08-18
+---
+## Billing details
+From Tyre well Parts Ltd. Bill to: Brumeval Transports S.à
+r.l. Invoice
+TWP-2025-257, dated 18 August 2025.
+
+## Items
+No.   Description   Qty   Unit price (EUR)   Amount (EUR)
+1   Workshop labour   13   96.50   1,254.50
+2   Oil filters   16   28.75   460.00
+3   Brake pads   9   48.75   438.75
+
+## Summary
+Subtotal (EUR)   2,153 .25
+VAT 17% (EUR)   366.05
+Amount payable (EUR)   2,519 .30
+Terms: 14 days net, i.e. by 1 September 2025.

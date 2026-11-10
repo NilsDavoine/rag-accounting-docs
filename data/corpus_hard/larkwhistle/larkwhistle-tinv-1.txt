@@ -1,0 +1,21 @@
+---
+doc_id: larkwhistle-tinv-1
+company: larkwhistle
+title: Invoice HOS-2025-462 – Hollowmere Office Supply
+type: invoice
+source: pdf
+lang: en
+date: 2025-08-21
+---
+## Billing details
+From Hollowmere Office Supply. Bill to: Larkwhistle Analytics Ltd. Invoice HOS-2025-462, dated 21 August 2025.
+
+## Items
+| No. | Description | Qty | Unit price (EUR) | Amount (EUR) |
+|---|---|---|---|---|
+| 1 | Workshop labour | 11 | 69.50 | 764.50 |
+| 2 | Backup licences | 7 | 91.50 | 640.50 |
+| 3 | Lever-arch files | 7 | 6.25 | 43.75 |
+
+## Summary
+Subtotal: EUR 1,448.75. VAT 17%: EUR 246.29. Amount payable: EUR 1,695.04. Terms: 30 days net, i.e. by 20 September 2025.

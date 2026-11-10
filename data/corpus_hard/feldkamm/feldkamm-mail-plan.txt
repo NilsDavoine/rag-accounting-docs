@@ -1,0 +1,21 @@
+---
+doc_id: feldkamm-mail-plan
+company: feldkamm
+title: Ratenzahlung
+type: email
+source: email
+lang: de
+date: 2025-10-20
+---
+From: Beratung Wolkenstein
+To: Feldkamm Haustechnik GmbH
+Date: 20.10.2025
+Subject: Ratenzahlung
+
+
+Guten Tag,
+
+wie besprochen sind wir einverstanden, dass der offene Betrag von 7.811,73 EUR in drei Monatsraten zu je 2.603,91 EUR beglichen wird, die erste am 09.11.2025.
+
+Freundliche Grüße
+Beratung Wolkenstein

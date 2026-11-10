@@ -1,0 +1,105 @@
+{"doc_id": "brumeval-tinv-1", "heading": "Émetteur et destinataire", "nature": "party_details"}
+{"doc_id": "brumeval-tinv-1", "heading": "Lignes de facture", "nature": "invoice_line"}
+{"doc_id": "brumeval-tinv-1", "heading": "Récapitulatif", "nature": "invoice_line"}
+{"doc_id": "brumeval-tinv-2", "heading": "Billing details", "nature": "party_details"}
+{"doc_id": "brumeval-tinv-2", "heading": "Items", "nature": "invoice_line"}
+{"doc_id": "brumeval-tinv-2", "heading": "Summary", "nature": "invoice_line"}
+{"doc_id": "brumeval-tax-annual", "heading": "Destinataire", "nature": "party_details"}
+{"doc_id": "brumeval-tax-annual", "heading": "Premier trimestre 2025", "nature": "tax_notice"}
+{"doc_id": "brumeval-tax-annual", "heading": "Deuxième trimestre 2025", "nature": "tax_notice"}
+{"doc_id": "brumeval-tax-annual", "heading": "Troisième trimestre 2025", "nature": "tax_notice"}
+{"doc_id": "brumeval-tax-annual", "heading": "Régularisations", "nature": "tax_notice"}
+{"doc_id": "brumeval-tax-annual", "heading": "Voies de recours", "nature": "tax_notice"}
+{"doc_id": "brumeval-framework", "heading": "Article 1 – Objet", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 2 – Entrée en vigueur", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 3 – Tarif des consultants juniors", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 4 – Tarif des consultants seniors", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 5 – Règlement des missions de conseil", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 6 – Règlement des licences", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 7 – Règlement de la maintenance", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 8 – Confidentialité", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 9 – Responsabilité", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 10 – Résiliation", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework", "heading": "Article 11 – Droit applicable", "nature": "contract_clause"}
+{"doc_id": "brumeval-framework-amendment", "heading": "Article unique – Révision tarifaire", "nature": "contract_clause"}
+{"doc_id": "brumeval-policy", "heading": "1. Champ d'application", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "2.1 Repas – Luxembourg", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "2.2 Repas – étranger", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "3.1 Hébergement – Luxembourg", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "3.2 Hébergement – étranger", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "4. Véhicule personnel", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "5.1 Achats – devis unique", "nature": "procedure_step"}
+{"doc_id": "brumeval-policy", "heading": "5.2 Achats – mise en concurrence", "nature": "procedure_step"}
+{"doc_id": "brumeval-mail-plan", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "brumeval-mail-moved", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "brumeval-mail-parts", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "larkwhistle-tinv-1", "heading": "Billing details", "nature": "party_details"}
+{"doc_id": "larkwhistle-tinv-1", "heading": "Items", "nature": "invoice_line"}
+{"doc_id": "larkwhistle-tinv-1", "heading": "Summary", "nature": "invoice_line"}
+{"doc_id": "larkwhistle-tinv-2", "heading": "Rechnungsangaben", "nature": "party_details"}
+{"doc_id": "larkwhistle-tinv-2", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "larkwhistle-tinv-2", "heading": "Zusammenfassung", "nature": "invoice_line"}
+{"doc_id": "larkwhistle-tax-annual", "heading": "Addressee", "nature": "party_details"}
+{"doc_id": "larkwhistle-tax-annual", "heading": "First quarter 2025", "nature": "tax_notice"}
+{"doc_id": "larkwhistle-tax-annual", "heading": "Second quarter 2025", "nature": "tax_notice"}
+{"doc_id": "larkwhistle-tax-annual", "heading": "Third quarter 2025", "nature": "tax_notice"}
+{"doc_id": "larkwhistle-tax-annual", "heading": "Adjustments", "nature": "tax_notice"}
+{"doc_id": "larkwhistle-tax-annual", "heading": "Right of objection", "nature": "tax_notice"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 1 – Scope", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 2 – Commencement", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 3 – Junior consultant rate", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 4 – Senior consultant rate", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 5 – Settlement of advisory invoices", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 6 – Settlement of licence invoices", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 7 – Settlement of maintenance invoices", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 8 – Confidentiality", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 9 – Liability", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 10 – Termination", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework", "heading": "Clause 11 – Governing law", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-framework-amendment", "heading": "Sole clause – Rate review", "nature": "contract_clause"}
+{"doc_id": "larkwhistle-policy", "heading": "1. Scope", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "2.1 Meals – Luxembourg", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "2.2 Meals – abroad", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "3.1 Accommodation – Luxembourg", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "3.2 Accommodation – abroad", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "4. Private vehicle", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "5.1 Purchasing – single quote", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-policy", "heading": "5.2 Purchasing – competitive quotes", "nature": "procedure_step"}
+{"doc_id": "larkwhistle-mail-plan", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "larkwhistle-mail-moved", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "larkwhistle-mail-parts", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "feldkamm-tinv-1", "heading": "Rechnungsangaben", "nature": "party_details"}
+{"doc_id": "feldkamm-tinv-1", "heading": "Positionen", "nature": "invoice_line"}
+{"doc_id": "feldkamm-tinv-1", "heading": "Zusammenfassung", "nature": "invoice_line"}
+{"doc_id": "feldkamm-tinv-2", "heading": "Émetteur et destinataire", "nature": "party_details"}
+{"doc_id": "feldkamm-tinv-2", "heading": "Lignes de facture", "nature": "invoice_line"}
+{"doc_id": "feldkamm-tinv-2", "heading": "Récapitulatif", "nature": "invoice_line"}
+{"doc_id": "feldkamm-tax-annual", "heading": "Empfänger", "nature": "party_details"}
+{"doc_id": "feldkamm-tax-annual", "heading": "Erstes Quartal 2025", "nature": "tax_notice"}
+{"doc_id": "feldkamm-tax-annual", "heading": "Zweites Quartal 2025", "nature": "tax_notice"}
+{"doc_id": "feldkamm-tax-annual", "heading": "Drittes Quartal 2025", "nature": "tax_notice"}
+{"doc_id": "feldkamm-tax-annual", "heading": "Berichtigungen", "nature": "tax_notice"}
+{"doc_id": "feldkamm-tax-annual", "heading": "Rechtsbehelf", "nature": "tax_notice"}
+{"doc_id": "feldkamm-framework", "heading": "§ 1 Gegenstand", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 2 Inkrafttreten", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 3 Vergütung Junior-Berater", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 4 Vergütung Senior-Berater", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 5 Zahlung Beratungsleistungen", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 6 Zahlung Lizenzen", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 7 Zahlung Wartung", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 8 Vertraulichkeit", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 9 Haftung", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 10 Kündigung", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework", "heading": "§ 11 Anwendbares Recht", "nature": "contract_clause"}
+{"doc_id": "feldkamm-framework-amendment", "heading": "Einziger Paragraph – Preisanpassung", "nature": "contract_clause"}
+{"doc_id": "feldkamm-policy", "heading": "1. Geltungsbereich", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "2.1 Bewirtung – Luxemburg", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "2.2 Bewirtung – Ausland", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "3.1 Übernachtung – Luxemburg", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "3.2 Übernachtung – Ausland", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "4. Privatfahrzeug", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "5.1 Einkauf – Einzelangebot", "nature": "procedure_step"}
+{"doc_id": "feldkamm-policy", "heading": "5.2 Einkauf – Vergleichsangebote", "nature": "procedure_step"}
+{"doc_id": "feldkamm-mail-plan", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "feldkamm-mail-moved", "heading": "Message", "nature": "correspondence"}
+{"doc_id": "feldkamm-mail-parts", "heading": "Message", "nature": "correspondence"}

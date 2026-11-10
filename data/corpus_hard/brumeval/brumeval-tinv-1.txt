@@ -1,0 +1,21 @@
+---
+doc_id: brumeval-tinv-1
+company: brumeval
+title: Facture GV/2025/0925 – Garage Velmont
+type: invoice
+source: pdf
+lang: fr
+date: 2025-09-11
+---
+## Émetteur et destinataire
+Garage Velmont, fournisseur. Facturé à : Brumeval Transports S.à r.l. Facture GV/2025/0925 du 11 septembre 2025.
+
+## Lignes de facture
+| Pos. | Désignation | Qté | PU HT (EUR) | Montant HT (EUR) |
+|---|---|---|---|---|
+| 1 | Filtres à huile | 20 | 31,25 | 625,00 |
+| 2 | Main-d'œuvre atelier | 17 | 97,75 | 1 661,75 |
+| 3 | Plaquettes de frein | 13 | 56,00 | 728,00 |
+
+## Récapitulatif
+Total HT : 3 014,75 EUR. TVA 17 % : 512,51 EUR. Net à payer : 3 527,26 EUR. Règlement à 14 jours, soit au plus tard le 25 septembre 2025.

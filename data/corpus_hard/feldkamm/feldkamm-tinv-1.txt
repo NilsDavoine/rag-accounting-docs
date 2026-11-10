@@ -1,0 +1,21 @@
+---
+doc_id: feldkamm-tinv-1
+company: feldkamm
+title: Rechnung SGE-2025-838 – Sanitär Großhandel Ebbing
+type: invoice
+source: pdf
+lang: de
+date: 2025-01-19
+---
+## Rechnungsangaben
+Von Sanitär Großhandel Ebbing. Rechnungsempfänger: Feldkamm Haustechnik GmbH. Rechnung SGE-2025-838 vom 19.01.2025.
+
+## Positionen
+| Pos. | Bezeichnung | Menge | Einzelpreis (EUR) | Betrag (EUR) |
+|---|---|---|---|---|
+| 1 | Werkstattarbeit | 8 | 68,50 | 548,00 |
+| 2 | Kupferrohre 15 mm | 9 | 19,50 | 175,50 |
+| 3 | Thermostatventile | 24 | 34,00 | 816,00 |
+
+## Zusammenfassung
+Zwischensumme: 1.539,50 EUR. USt. 17 %: 261,72 EUR. Zahlbetrag: 1.801,22 EUR. Zahlbar innerhalb von 21 Tagen, d. h. bis 09.02.2025.

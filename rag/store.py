@@ -14,6 +14,7 @@ import json
 
 import numpy as np
 import psycopg
+import psycopg.sql
 from pgvector.psycopg import register_vector
 
 from rag.bm25 import B, K1
@@ -21,9 +22,9 @@ from rag.config import DATABASE_URL, EMBED_DIM
 
 SCHEMA = f"""
 CREATE EXTENSION IF NOT EXISTS vector;
-DROP TABLE IF EXISTS postings;
-DROP TABLE IF EXISTS chunks;
-CREATE TABLE chunks (
+DROP TABLE IF EXISTS __S__.postings;
+DROP TABLE IF EXISTS __S__.chunks;
+CREATE TABLE __S__.chunks (
     id           serial PRIMARY KEY,
     company      text NOT NULL,
     doc_id       text NOT NULL,
@@ -41,11 +42,11 @@ CREATE TABLE chunks (
     n_tokens     int  NOT NULL,
     embedding    vector({EMBED_DIM}) NOT NULL
 );
-CREATE INDEX chunks_company ON chunks (company);
-CREATE INDEX chunks_embedding ON chunks USING hnsw (embedding vector_cosine_ops);
-CREATE TABLE postings (
+CREATE INDEX chunks_company ON __S__.chunks (company);
+CREATE INDEX chunks_embedding ON __S__.chunks USING hnsw (embedding vector_cosine_ops);
+CREATE TABLE __S__.postings (
     term     text NOT NULL,
-    chunk_id int  NOT NULL REFERENCES chunks(id) ON DELETE CASCADE,
+    chunk_id int  NOT NULL REFERENCES __S__.chunks(id) ON DELETE CASCADE,
     tf       int  NOT NULL,
     PRIMARY KEY (term, chunk_id)
 );
@@ -90,9 +91,13 @@ LIMIT %(k)s
 """
 
 
-def connect() -> psycopg.Connection:
+def connect(schema: str | None = None) -> psycopg.Connection:
+    """`schema` selects a separate set of tables (the held-out hard set lives in schema "hard")."""
     conn = psycopg.connect(DATABASE_URL, autocommit=True)
     conn.execute("CREATE EXTENSION IF NOT EXISTS vector")
+    if schema:
+        conn.execute(psycopg.sql.SQL("CREATE SCHEMA IF NOT EXISTS {}").format(psycopg.sql.Identifier(schema)))
+        conn.execute(psycopg.sql.SQL("SET search_path TO {}, public").format(psycopg.sql.Identifier(schema)))
     register_vector(conn)
     # pgvector >= 0.8: keep scanning the HNSW graph until enough rows pass the WHERE filter
     conn.execute("SET hnsw.iterative_scan = relaxed_order")
@@ -111,7 +116,10 @@ def _rows(cur) -> list[dict]:
 
 
 def reset(conn) -> None:
-    conn.execute(SCHEMA)
+    # Table names are qualified with the connection's own schema: an unqualified DROP would follow the
+    # search_path and could drop the main corpus's tables while building the hard set.
+    schema = conn.execute("SELECT current_schema()").fetchone()[0]
+    conn.execute(SCHEMA.replace("__S__", '"' + schema.replace('"', '""') + '"'))
 
 
 def insert_chunk(conn, chunk, nature: str, proba: dict, tokens: list[str], embedding: np.ndarray) -> int:

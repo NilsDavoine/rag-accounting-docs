@@ -1,0 +1,41 @@
+---
+doc_id: larkwhistle-framework
+company: larkwhistle
+title: Framework services agreement – Penhallow Consulting
+type: contract
+source: pdf
+lang: en
+date: 2025-05-17
+---
+## Clause 1 – Scope
+This framework agreement sets the terms on which Penhallow Consulting provides Larkwhistle Analytics Ltd with advisory assignments, software licences and maintenance of its accounting tools. Any change to this clause requires a written amendment signed by both parties. Headings are for convenience only and do not limit the scope of this clause.
+
+## Clause 2 – Commencement
+Any change to this clause requires a written amendment signed by both parties. The parties agree to perform this clause in good faith and in line with professional practice. This clause applies without prejudice to any mandatory statutory provisions. The provider keeps available to the client any document needed to check the amounts invoiced. Each party appoints a contact person in charge of this clause and informs the other party in writing. Headings are for convenience only and do not limit the scope of this clause. Communications about this clause may be exchanged by e-mail unless stated otherwise. This framework agreement commences on 1 June 2025 and continues until terminated.
+
+## Clause 3 – Junior consultant rate
+Work by a junior consultant is charged at EUR 90.00 per hour, excluding VAT. No forbearance by either party shall be construed as a waiver of its rights under this clause.
+
+## Clause 4 – Senior consultant rate
+Work by a senior consultant is charged at EUR 145.00 per hour, excluding VAT. No forbearance by either party shall be construed as a waiver of its rights under this clause.
+
+## Clause 5 – Settlement of advisory invoices
+Invoices for advisory assignments are settled 15 days after month end. Should a difficulty arise in applying this clause, the parties shall meet promptly to seek an amicable solution.
+
+## Clause 6 – Settlement of licence invoices
+Invoices for licences are settled 30 days after month end. The provider keeps available to the client any document needed to check the amounts invoiced.
+
+## Clause 7 – Settlement of maintenance invoices
+Invoices for maintenance are settled 45 days after month end. The parties agree to perform this clause in good faith and in line with professional practice.
+
+## Clause 8 – Confidentiality
+The provider keeps available to the client any document needed to check the amounts invoiced. Should a difficulty arise in applying this clause, the parties shall meet promptly to seek an amicable solution. No forbearance by either party shall be construed as a waiver of its rights under this clause. Each party appoints a contact person in charge of this clause and informs the other party in writing. Any change to this clause requires a written amendment signed by both parties. This clause applies without prejudice to any mandatory statutory provisions. Communications about this clause may be exchanged by e-mail unless stated otherwise. Headings are for convenience only and do not limit the scope of this clause. The duty of confidentiality survives for 7 years after this framework agreement ends, for whatever reason.
+
+## Clause 9 – Liability
+The aggregate liability of Penhallow Consulting under this framework agreement is capped at EUR 75,000.00. This clause is to be read together with the other terms of the framework agreement and its schedules. Should a difficulty arise in applying this clause, the parties shall meet promptly to seek an amicable solution. No forbearance by either party shall be construed as a waiver of its rights under this clause.
+
+## Clause 10 – Termination
+Headings are for convenience only and do not limit the scope of this clause. This clause applies without prejudice to any mandatory statutory provisions. Either party may end this framework agreement by giving 2 months' written notice.
+
+## Clause 11 – Governing law
+Headings are for convenience only and do not limit the scope of this clause. Should a difficulty arise in applying this clause, the parties shall meet promptly to seek an amicable solution. Communications about this clause may be exchanged by e-mail unless stated otherwise. This clause applies without prejudice to any mandatory statutory provisions. No forbearance by either party shall be construed as a waiver of its rights under this clause. The provider keeps available to the client any document needed to check the amounts invoiced.

@@ -1,0 +1,26 @@
+---
+doc_id: larkwhistle-tinv-2
+company: larkwhistle
+title: Rechnung RE 2025.0870 – Datenwerk Reutlach GmbH
+type: invoice
+source: scan
+lang: de
+date: 2025-03-20
+---
+## Rechnungsangaben
+Von
+Datenwerk Reut lach GmbH. Rechnungsempfänger: Larkwhist1e Ana1ytics Ltd. Rechnung RE 2025.0870 vom 20 .03.2025.
+
+## Positionen
+Pos.   Bezeichnung   Menge   Einzelpreis (EUR)   Betrag (EUR)
+1   Ordner   10   6,75   67,50
+2   27-Zoll-Monitore   7   374,75   2.623,25
+3   Werkstattarbeit   21   82,75   1.737,75
+
+## Zusammenfassung
+Zwisch-
+ensumme (EUR)   4.428,50
+USt. 17 % (EUR)   752,85
+Zahlbetrag (EUR)   5.181,35
+Zahlbar innerhalb von 14 Tagen, d.
+h. bis 03.04.2025.

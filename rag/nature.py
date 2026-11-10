@@ -72,6 +72,23 @@ def predict(model, chunks) -> list[tuple[str, dict]]:
     return out
 
 
+def evaluate(model, chunks, labels_file: Path) -> dict:
+    """Accuracy of an already trained model on another labelled corpus (no training)."""
+    labels = {}
+    for line in labels_file.read_text(encoding="utf-8").splitlines():
+        x = json.loads(line)
+        labels[(x["doc_id"], x["heading"])] = x["nature"]
+    labelled = [(c, labels[(c.doc_id, c.heading)]) for c in chunks if (c.doc_id, c.heading) in labels]
+    pred = model.predict([_features(c) for c, _ in labelled])
+    gold = [y for _, y in labelled]
+    return {"test_chunks": len(gold), "accuracy": round(accuracy_score(gold, pred), 3),
+            "macro_f1": round(f1_score(gold, pred, average="macro"), 3)}
+
+
+def load(path: Path):
+    return pickle.loads(path.read_bytes())
+
+
 def save(model, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(pickle.dumps(model))

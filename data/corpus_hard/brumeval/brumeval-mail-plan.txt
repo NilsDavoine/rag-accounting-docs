@@ -1,0 +1,21 @@
+---
+doc_id: brumeval-mail-plan
+company: brumeval
+title: Échelonnement du solde
+type: email
+source: email
+lang: fr
+date: 2025-10-21
+---
+From: Conseil Arpentin
+To: Brumeval Transports S.à r.l.
+Date: 21 octobre 2025
+Subject: Échelonnement du solde
+
+
+Bonjour,
+
+Suite à notre échange, nous acceptons que le solde de 4 146,63 EUR soit réglé en trois mensualités de 1 382,21 EUR, la première le 10 novembre 2025.
+
+Bien à vous,
+Conseil Arpentin

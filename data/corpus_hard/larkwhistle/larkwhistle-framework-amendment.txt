@@ -1,0 +1,11 @@
+---
+doc_id: larkwhistle-framework-amendment
+company: larkwhistle
+title: Amendment No. 1 to the framework agreement – Penhallow Consulting
+type: contract
+source: pdf
+lang: en
+date: 2025-08-18
+---
+## Sole clause – Rate review
+With effect from 1 September 2025, the hourly rate of a senior consultant is raised to EUR 155.00, excluding VAT. All other terms of the framework agreement remain unchanged.

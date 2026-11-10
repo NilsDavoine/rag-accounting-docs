@@ -7,6 +7,11 @@ ROOT = Path(__file__).resolve().parent.parent
 CORPUS_DIR = ROOT / "data" / "corpus"
 LABELS_FILE = ROOT / "data" / "nature_labels.jsonl"
 QUESTIONS_FILE = ROOT / "eval" / "questions.jsonl"
+# Held-out hard set (data/generate_hard.py): its own corpus, its own PostgreSQL schema, never used for tuning.
+HARD_CORPUS_DIR = ROOT / "data" / "corpus_hard"
+HARD_LABELS_FILE = ROOT / "data" / "nature_labels_hard.jsonl"
+HARD_QUESTIONS_FILE = ROOT / "eval" / "questions_hard.jsonl"
+HARD_SCHEMA = "hard"
 ARTIFACTS = ROOT / "artifacts"            # trained classifier + tuned thresholds (generated)
 
 DATABASE_URL = os.environ.get("RAG_DATABASE_URL", "postgresql://rag:rag@localhost:5433/rag")

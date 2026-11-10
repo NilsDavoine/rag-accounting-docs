@@ -1,0 +1,21 @@
+---
+doc_id: larkwhistle-mail-moved
+company: larkwhistle
+title: Accounts review: new date
+type: email
+source: email
+lang: en
+date: 2026-02-20
+---
+From: Cabinet comptable fictif
+To: Larkwhistle Analytics Ltd
+Date: 20 February 2026
+Subject: Accounts review: new date
+
+
+Hi,
+
+The accounts review originally planned for 7 March 2026 has been pushed back to 14 March 2026, same time, same room. Sorry for the change.
+
+Regards,
+Your accountant

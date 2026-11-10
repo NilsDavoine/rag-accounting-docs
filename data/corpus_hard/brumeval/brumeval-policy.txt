@@ -1,0 +1,32 @@
+---
+doc_id: brumeval-policy
+company: brumeval
+title: Politique de déplacements et d'achats
+type: procedure
+source: pdf
+lang: fr
+date: 2025-01-06
+---
+## 1. Champ d'application
+La présente politique s'applique à tous les salariés de Brumeval Transports S.à r.l. qui engagent des frais pour le compte de la société. Chaque partie désigne un interlocuteur chargé du suivi du présent article et en informe l'autre partie par écrit. En cas de difficulté d'application, les parties se rencontrent dans les meilleurs délais pour rechercher une solution amiable.
+
+## 2.1 Repas – Luxembourg
+Un repas d'affaires pris au Luxembourg est remboursé dans la limite de 30,00 EUR par personne, boissons comprises.
+
+## 2.2 Repas – étranger
+Un repas d'affaires pris à l'étranger est remboursé dans la limite de 35,00 EUR par personne, boissons comprises.
+
+## 3.1 Hébergement – Luxembourg
+Une nuit d'hôtel au Luxembourg est prise en charge dans la limite de 130,00 EUR, petit-déjeuner inclus.
+
+## 3.2 Hébergement – étranger
+Une nuit d'hôtel à l'étranger est prise en charge dans la limite de 160,00 EUR, petit-déjeuner inclus.
+
+## 4. Véhicule personnel
+L'utilisation d'un véhicule personnel pour un déplacement professionnel donne lieu à une indemnité de 0,28 EUR par kilomètre. Chaque partie désigne un interlocuteur chargé du suivi du présent article et en informe l'autre partie par écrit.
+
+## 5.1 Achats – devis unique
+Tout achat d'un montant supérieur à 1 000,00 EUR hors taxes fait l'objet d'un devis écrit. Les titres des articles n'ont qu'une valeur indicative et ne sauraient en limiter la portée.
+
+## 5.2 Achats – mise en concurrence
+Tout achat d'un montant supérieur à 5 000,00 EUR hors taxes fait l'objet de trois devis comparables. En cas de difficulté d'application, les parties se rencontrent dans les meilleurs délais pour rechercher une solution amiable.

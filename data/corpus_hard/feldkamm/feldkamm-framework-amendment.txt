@@ -1,0 +1,11 @@
+---
+doc_id: feldkamm-framework-amendment
+company: feldkamm
+title: Nachtrag Nr. 1 zum Rahmenvertrag – Beratung Wolkenstein
+type: contract
+source: pdf
+lang: de
+date: 2025-08-18
+---
+## Einziger Paragraph – Preisanpassung
+Ab dem 1. September 2025 beträgt der Stundensatz eines Senior-Beraters 145,00 EUR netto. Alle übrigen Bestimmungen des Rahmenvertrags bleiben unverändert.

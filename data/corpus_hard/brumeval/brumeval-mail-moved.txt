@@ -1,0 +1,21 @@
+---
+doc_id: brumeval-mail-moved
+company: brumeval
+title: Revue des comptes : nouvelle date
+type: email
+source: email
+lang: fr
+date: 2026-02-20
+---
+From: Cabinet comptable fictif
+To: Brumeval Transports S.à r.l.
+Date: 20 février 2026
+Subject: Revue des comptes : nouvelle date
+
+
+Bonjour,
+
+La revue des comptes initialement prévue le 10 mars 2026 est décalée au 17 mars 2026, même heure, même salle. Merci de votre compréhension.
+
+Cordialement,
+Votre expert-comptable

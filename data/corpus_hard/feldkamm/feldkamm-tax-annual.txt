@@ -1,0 +1,28 @@
+---
+doc_id: feldkamm-tax-annual
+company: feldkamm
+title: Umsatzsteuer-Jahresauszug 2025
+type: tax_letter
+source: scan
+lang: de
+date: 2025-10-20
+---
+## Empfänger
+Fiktive Steuerverwaltung,
+Umsatzste uerstelle. Kontoauszug für Feldkamm Haustechnik GmbH.
+
+## Erstes Quartal 2025
+Für das erste Quartal 2025 ergibtsich eine Steuer von 12.169,85 EUR. DerBetrag wurde am 12.05.2025 beglichen.
+
+## Zweites Quartal 2025
+Für das zweite Quartal 2025 ergibtsich eineSteuer von 11.581,39 EUR.DerBetrag wurde am 14 .08.2025 beglichen.
+
+## Drittes Quartal 2025
+Für das dritte Quartal 2025 ergibt sich eine Steuer von 8.086,81 EUR. Der Betrag ist bis
+spätestens 17 .11.2025zu entrichten.
+
+## Berichtigungen
+Ein Guthaben von 365,93EUR aus 2024 wurde mitdem ersten Quartal verre chnet. Weitere Berichtigungen erfolgten nicht.
+
+## Rechtsbehelf
+Ein Einspruch ist innerhalb von 3 Monaten nach ErhaltdiesesAuszugs möglich.

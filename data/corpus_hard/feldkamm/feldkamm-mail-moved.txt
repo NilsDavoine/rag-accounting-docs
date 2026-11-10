@@ -1,0 +1,21 @@
+---
+doc_id: feldkamm-mail-moved
+company: feldkamm
+title: Kontenprüfung: neuer Termin
+type: email
+source: email
+lang: de
+date: 2026-02-20
+---
+From: Cabinet comptable fictif
+To: Feldkamm Haustechnik GmbH
+Date: 20.02.2026
+Subject: Kontenprüfung: neuer Termin
+
+
+Guten Tag,
+
+die ursprünglich für den 07.03.2026 geplante Kontenprüfung wird auf den 14.03.2026 verschoben, gleiche Uhrzeit, gleicher Raum. Danke für Ihr Verständnis.
+
+Mit freundlichen Grüßen
+Ihr Steuerberater

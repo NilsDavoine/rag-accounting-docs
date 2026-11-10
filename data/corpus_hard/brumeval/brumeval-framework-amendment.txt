@@ -1,0 +1,11 @@
+---
+doc_id: brumeval-framework-amendment
+company: brumeval
+title: Avenant n° 1 au contrat-cadre – Conseil Arpentin
+type: contract
+source: pdf
+lang: fr
+date: 2025-08-18
+---
+## Article unique – Révision tarifaire
+À compter du 1er septembre 2025, le tarif horaire d'un consultant senior est porté à 160,00 EUR hors taxes. Les autres stipulations du contrat-cadre restent inchangées.

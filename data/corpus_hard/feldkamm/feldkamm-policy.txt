@@ -1,0 +1,32 @@
+---
+doc_id: feldkamm-policy
+company: feldkamm
+title: Reise- und Einkaufsrichtlinie
+type: procedure
+source: pdf
+lang: de
+date: 2025-01-06
+---
+## 1. Geltungsbereich
+Diese Richtlinie gilt für alle Beschäftigten der Feldkamm Haustechnik GmbH, die Ausgaben für das Unternehmen tätigen. Überschriften dienen nur der Orientierung und schränken den Inhalt dieser Bestimmung nicht ein. Mitteilungen zu dieser Bestimmung können per E-Mail erfolgen, sofern nichts anderes vereinbart ist.
+
+## 2.1 Bewirtung – Luxemburg
+Ein Geschäftsessen in Luxemburg wird bis zu 20,00 EUR pro Person erstattet, Getränke inbegriffen.
+
+## 2.2 Bewirtung – Ausland
+Ein Geschäftsessen im Ausland wird bis zu 50,00 EUR pro Person erstattet, Getränke inbegriffen.
+
+## 3.1 Übernachtung – Luxemburg
+Eine Hotelübernachtung in Luxemburg wird bis zu 120,00 EUR übernommen, Frühstück inbegriffen.
+
+## 3.2 Übernachtung – Ausland
+Eine Hotelübernachtung im Ausland wird bis zu 160,00 EUR übernommen, Frühstück inbegriffen.
+
+## 4. Privatfahrzeug
+Für Dienstfahrten mit dem Privatfahrzeug wird eine Pauschale von 0,28 EUR je Kilometer gezahlt. Die Parteien verpflichten sich, diese Bestimmung nach Treu und Glauben und gemäß den Gepflogenheiten des Berufsstands zu erfüllen.
+
+## 5.1 Einkauf – Einzelangebot
+Jeder Einkauf über 500,00 EUR netto erfordert ein schriftliches Angebot. Der Auftragnehmer hält alle Unterlagen bereit, die zur Prüfung der berechneten Beträge erforderlich sind.
+
+## 5.2 Einkauf – Vergleichsangebote
+Jeder Einkauf über 10.000,00 EUR netto erfordert drei vergleichbare Angebote. Jede Partei benennt eine Ansprechperson für diese Bestimmung und teilt sie der anderen Partei schriftlich mit.

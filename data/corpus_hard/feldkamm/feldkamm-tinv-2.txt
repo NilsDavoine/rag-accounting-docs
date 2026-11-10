@@ -1,0 +1,25 @@
+---
+doc_id: feldkamm-tinv-2
+company: feldkamm
+title: Facture CL20250694 – Comptoir Lavergne
+type: invoice
+source: scan
+lang: fr
+date: 2025-03-01
+---
+## Émetteur et destinataire
+Comptoir Lave rgne, fournisseur.Facturé à : Feldkamm Haustechnik GmbH. Facture
+CL20250694 du 1 mars 2025.
+
+## Lignes de facture
+Pos.   Désignation   Qté   PU HT (EUR)   Montant HT (EUR)
+1   Main-d'œuvre atelier   12   66,00   792,00
+2   Pompes de circulation   7   302,75   2 119,25
+3   Robinets thermostatiques   14   35,00   490,00
+
+## Récapitulatif
+Total HT (EUR)   3
+401,25
+TVA 17 % (EUR)   578,21
+Netà payer (EUR)  3 979,46
+Règlement à 30 jours, soit au plus tard le 31mars 2025.

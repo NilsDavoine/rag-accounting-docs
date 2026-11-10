@@ -1,0 +1,32 @@
+---
+doc_id: larkwhistle-tax-annual
+company: larkwhistle
+title: Annual VAT statement 2025
+type: tax_letter
+source: scan
+lang: en
+date: 2025-10-20
+---
+## Addressee
+Fictional Tax Adminis-
+tration, VAT office. Statement sent to Larkwhistle Anal ytics Ltd.
+
+## First quarter 2025
+For the first quarter of
+2025, thetaxpayable
+comes to EUR 7,738.21. This amount was settled 0n 12 May
+2025.
+
+## Second quarter 2025
+For the second quarter of 2025, the taxpayable comes to EUR 4,926.12. This amount was settledon 14 August 2025.
+
+## Third quarter 2025
+For the thirdquarterof 2025, the
+tax payablecomesto EUR 6,437.79. This amount is still to be paid by 17 November 2025.
+
+## Adjustments
+A credlt of EUR 534.91 carried over from 2024 was set againstthe first quarter. No otheradjustment was made.
+
+## Right of objection
+An objection may be lodged within 3
+months of receiving this statement.

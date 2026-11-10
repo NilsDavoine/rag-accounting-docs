@@ -1,0 +1,21 @@
+---
+doc_id: brumeval-mail-parts
+company: brumeval
+title: Replacement parts dispatched
+type: email
+source: email
+lang: en
+date: 2025-02-25
+---
+From: Tyrewell Parts Ltd
+To: Brumeval Transports S.à r.l.
+Date: 25 February 2025
+Subject: Replacement parts dispatched
+
+
+Hello,
+
+The replacement parts you ordered left our warehouse today. Expected arrival: 05/12/2025. Tracking details will follow.
+
+Regards,
+Tyrewell Parts Ltd

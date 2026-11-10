@@ -1,0 +1,31 @@
+---
+doc_id: brumeval-tax-annual
+company: brumeval
+title: Relevé annuel de TVA 2025
+type: tax_letter
+source: scan
+lang: fr
+date: 2025-10-20
+---
+## Destinataire
+Administration fiscale fict ive, service TVA. Relevé adressé à Brumeval Transports S.à r.l..
+
+## Premier trimestre 2025
+Pour le premier trim estre 2025, la taxe exigibleressort à 11 550,83 EUR. Ce montant a été réglé le 12 mai 2025.
+
+## Deuxième trimestre 2025
+Pourle deuxième trimestre 2025, la taxeexigible ressort à 6 480,35
+EUR. Ce montant a été réglé le 14 août 2025.
+
+## Troisième trimestre 2025
+Pour le troi-
+sième trimestre 2025, la taxe cxigible ressort à 9 484 ,74EUR. Ce montant resteà verserau plus tardle 17 nove mbre 2025.
+
+## Régularisations
+Un
+credit dc
+810,58 EUR issu del'exercice 2024a été imputé sur le premier trimestre.
+Aucune autre régularisation n'est intervenue.
+
+## Voies de recours
+Une réclamation peut etre introduite dans un délai de trois mois à compter de la réception du présent relevé.
